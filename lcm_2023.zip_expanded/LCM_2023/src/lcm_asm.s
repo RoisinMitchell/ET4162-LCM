@@ -10,3 +10,4 @@ lcm_asm:
 gcd_asm:
 
 		br		x30
+/jkhjhv
